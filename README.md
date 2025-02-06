@@ -15,8 +15,9 @@ https://www.kaggle.com/datasets/cdeotte/60k-data-with-context-v2 -->
 A Final Year Project from The Chinese University of Hong Kong, focused on developing a Retrieval-Augmented Generation (RAG) pipeline to  answer complex scientific MC questions using LLMs like DeBERTaV3 and Mistral 7B. 
 Achieved **16th/2665** in a Kaggle competition with **MAP@3 of 0.919**, and received the **highest grade of A** in both terms.
 
-![score](img/score.jpg)
-![rank](img/rank.jpg)
+
+<img src="img/score.jpg" width="200">
+<img src="img/rank.jpg" width="500">
 
 ## Key Features
 ![overview](img/overview.jpg)
