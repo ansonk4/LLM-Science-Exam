@@ -16,8 +16,8 @@ A Final Year Project from The Chinese University of Hong Kong, focused on develo
 Achieved **16th/2665** in a Kaggle competition with **MAP@3 of 0.919**, and received the **highest grade of A** in both terms.
 
 
-<img src="img/score.jpg" width="300">
-<img src="img/rank.jpg" width="500">
+<img src="img/score.png" width="300">
+<img src="img/rank.png" width="500">
 
 ## Key Features
 ![overview](img/overview.jpg)
