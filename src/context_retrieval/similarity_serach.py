@@ -90,7 +90,8 @@ def remove_consecutive_duplicates(input_list):
 
 def main():
     test_file = "/kaggle/input/faiss-k5-l20/valid.csv"
-    test_label_file = "/kaggle/input/faiss-k5-l20/valid.csv"
+    
+     = "/kaggle/input/faiss-k5-l20/valid.csv"
 
     files_all = sorted(list(glob("/kaggle/input/cirruswiki-titles/*.parquet")))
     files_np = sorted(list(glob("/kaggle/input/enwiki-cirrus-20230701-e5-large-part*/*.npy")))
